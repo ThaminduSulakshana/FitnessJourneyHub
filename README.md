@@ -1,6 +1,6 @@
 # FitnessJourneyHub
 
-FitnessJourneyHub is a platform designed for fitness enthusiasts to share their fitness journey, workouts, and health-focused insights. This repository contains a Java (Spring Boot) based REST API and a React.js based client web application to fulfill the needs of the fitness community.
+FitnessJourneyHub is a platform designed for fitness enthusiasts to share their fitness journey, workouts, and health-focused insights. This repository contains a Java (Spring Boot) based REST API and a React.js-based client web application to fulfill the needs of the fitness community.
 
 ## Java (Spring Boot) REST API
 
@@ -8,7 +8,7 @@ The Java (Spring Boot) REST API serves as the backbone of the fitness platform. 
 
 ## React Client Web Application
 
-The React.js based client web application offers users an intuitive interface to access and utilize the fitness platform. Users can create and update their profiles, log workouts, track progress, share insights, and engage with other community members.
+The React.js-based client web application offers users an intuitive interface to access and utilize the fitness platform. Users can create and update their profiles, log workouts, track progress, share insights, and engage with other community members.
 
 ## Key Features
 
@@ -22,11 +22,5 @@ The React.js based client web application offers users an intuitive interface to
 
 - Java (Spring Boot) for backend REST API development.
 - React.js for frontend client application development.
-- MySQL or PostgreSQL for database management.
+- MongoDB and Firebase for database management.
 - Git for version control and collaboration.
-
-## Contributors
-
-- [thilinakavirathne ]  # Add contributor GitHub username
-
-You can paste this content into a file named `README.md` in the root directory of your FitnessJourneyHub repository. Just replace `@Thamindu Sulakshana` with your GitHub username and `@thilinakavirathne` with the GitHub username of the contributor. Let me know if you need any more help!
